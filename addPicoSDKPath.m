@@ -1,0 +1,1 @@
+addpath(genpath('C:\Documents and Settings\user\Desktop\Keith\PicoView 1.12 SDK\Picoscript-SDK-1.12.2\Picoscript-SDK-1.12.2\Matlab'))
